@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1456501728 source:c:\users\ryuk\desktop\fractions\main.cpp
+	<iostream>
+	"fraction.h"
+	"fractionCalculations.h"
+
+1456499603 source:c:\users\ryuk\desktop\fractions\src\fraction.cpp
+	"fraction.h"
+
+1456495150 c:\users\ryuk\desktop\fractions\include\fraction.h
+	<iostream>
+
+1456504328 source:c:\users\ryuk\desktop\fractions\src\fractioncalculations.cpp
+	"fractionCalculations.h"
+
+1456503922 c:\users\ryuk\desktop\fractions\include\fractioncalculations.h
+	"fraction.h"
+	<iostream>
+
+1456499603 source:c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196-g7\fractional_numbers\src\fraction.cpp
+	"fraction.h"
+
+1456495150 c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196-g7\fractional_numbers\include\fraction.h
+	<iostream>
+
+1456505017 source:c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196-g7\fractional_numbers\src\fractioncalculations.cpp
+	"fractionCalculations.h"
+
+1456503922 c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196-g7\fractional_numbers\include\fractioncalculations.h
+	"fraction.h"
+	<iostream>
+
+1456505204 source:c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196-g7\fractional_numbers\main.cpp
+	<iostream>
+	"fraction.h"
+	"fractionCalculations.h"
+
